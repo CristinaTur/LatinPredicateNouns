@@ -1,3 +1,3 @@
 # Latin Predicate Nouns
 
-This repository contains additional information concerning the work "VERBAL FEATURES IN LATIN PREDICATE NOUNS", by Eveling Garzón Fontalvo and Cristina Tur.
+This repository contains additional information concerning the work "New perspectives on the verbal characteristics of Latin predicate nouns", by Eveling Garzón Fontalvo and Cristina Tur.
